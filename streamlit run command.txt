@@ -1,0 +1,1 @@
+streamlit run "D:\Programming\Project_Vitiligo_SVM_ML\vitiligo prediction.py"
